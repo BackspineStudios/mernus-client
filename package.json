@@ -1,0 +1,16 @@
+{
+  "name": "mernus-client",
+  "version": "0.0.0",
+  "description": "MERN US",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Gonzalo Trenco",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "5.16.0",
+    "jest": "24.8.0"
+  }
+}
